@@ -3,8 +3,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 700px;
     background-color: white;
+
+    
 
 }
 
@@ -15,6 +17,11 @@ body{
      background: linear-gradient(to bottom, #001f65, #6895fd);
 
      padding: 55px;
+
+     transform: scale(0.60);
+
+    transform-origin: center;
+
      
 }
 
